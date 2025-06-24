@@ -1,2 +1,2 @@
 ## About this project 
-This is tutorial project for testing ci/cd pipelines with Github Actions
+This is a test project for testing ci/cd pipelines with Github Actions
